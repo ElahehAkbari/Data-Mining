@@ -17,7 +17,7 @@ In this project, multiple ANNs were trained and fine-tuned to classify a set of 
 **Final decision boundary plot**
 
 <p align="left">
-  <img src="https://user-images.githubusercontent.com/79719208/195886182-988a31ba-153e-4728-80a1-7f96bd8801c3.png" width=39% height=39%>
+  <img src="https://user-images.githubusercontent.com/79719208/195913071-d68d2bc8-7ec0-450e-a763-8ef30137f414.png">
 </p>
 
 ## fashion mnist dataset classification
